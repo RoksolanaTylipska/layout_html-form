@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,YACE,kBACF,CAEA,WACE,aAAc,CACd,mBACF","file":"style.2ecb3e7c.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.group-wrap {\n  margin-bottom: 20px ;\n}\n\n.form-wrap {\n  display: block;\n  padding-bottom: 10px;\n}\n"]}
